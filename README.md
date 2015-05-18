@@ -34,6 +34,6 @@ cron/cron.php - get tweets into DB<br />
 <br />
 Cron can be run every 60 sec, because you can call twitter API 200 times and hour<br />
 <br />
-//working version 
+working version <br />
 http://innovative.02.looknet.pl/_tests/ekomi/<br />
 
